@@ -37,10 +37,11 @@
 //!     * Rust
 //!     * Julia
 //!     * Python
-//! * Sub languages
-//!     * C/C++
-//!     * Fortran
-//!     * Haskell
-//!     * Nim
-//!     * Go
 //!     * R
+//! * Libraries
+//!     * Vectorization : SIMD, BLAS, LAPACK
+//!     * Web development : Django, Vue, Firebase, Surge
+//!     * Data Science
+//!         * Visualization : matplotlib, vegas, ggplot2
+//!         * Deep learning : Tensorflow, Torch
+//!         * Numerical : Peroxide, numpy, BLAS, LAPACK
