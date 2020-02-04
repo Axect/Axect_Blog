@@ -7,4 +7,4 @@
 //! * [Address(Google Map)](http://bit.ly/ShYonsei)
 
 pub mod introduce;
-pub mod machine_learning;
+pub mod post;

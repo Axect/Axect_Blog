@@ -27,3 +27,20 @@
 //! * HNumeric : Numerical library for Haskell
 //!     * [Github](https://github.com/Axect/HNumeric)
 //!     * [Hackage](https://hackage.haskell.org/package/HNumeric)
+//! * DNumeric : Numerical library for D
+//!     * [Github](https://github.com/Axect/DNumeric)
+//!     * [DUB](http://code.dlang.org/packages/dnumeric)
+//!
+//! # Programming Skills
+//!
+//! * Major languages
+//!     * Rust
+//!     * Julia
+//!     * Python
+//! * Sub languages
+//!     * C/C++
+//!     * Fortran
+//!     * Haskell
+//!     * Nim
+//!     * Go
+//!     * R
