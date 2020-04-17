@@ -1,4 +1,4 @@
-//! Introduce Axect
+//! Introduce Tae Geun Kim (Axect)
 //! 
 //! # I am
 //! 
