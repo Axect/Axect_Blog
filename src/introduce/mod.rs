@@ -22,6 +22,13 @@
 //!     * [Github](https://github.com/Axect/Peroxide)
 //!     * [Crates](https://crates.io/crates/peroxide)
 //!     * [Documents](http://peroxide.info)
+//! * Puruda : Pure Rust Dataframe library
+//!     * [Github](https://github.com/Axect/Puruda)
+//!     * [Crates](https://crates.io/crates/puruda)
+//! * Puruspe : Pure Rust Special function library
+//!     * [Github](https://github.com/Axect/Puruspe)
+//!     * [Crates](https://crates.io/crates/puruspe)
+//!     * [Documents](https://docs.rs/puruspe)
 //! * NSCool : Rust version of [NSCool](http://www.astroscu.unam.mx/neutrones/NSCool/)
 //!     * [Github](https://github.com/Axect/Github)
 //! * HNumeric : Numerical library for Haskell
@@ -31,7 +38,23 @@
 //!     * [Github](https://github.com/Axect/DNumeric)
 //!     * [DUB](http://code.dlang.org/packages/dnumeric)
 //!
-//! # Programming Skills
+//! # Skills
+//!
+//! ## Mathematics
+//!
+//! * Functional Analysis
+//! * Numerical Analysis
+//!     * Finite Difference Method
+//!     * Finite Element Method
+//! * Differential Geometry
+//! * Topology
+//!
+//! ## Physics
+//!
+//! * General Relativity
+//! * Quantum Field Theory
+//!
+//! ## Programming
 //!
 //! * Major languages
 //!     * Rust
