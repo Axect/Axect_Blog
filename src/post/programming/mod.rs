@@ -1,3 +1,3 @@
 //! Programming related posts
 
-pub mod scientific;
+pub mod numeric_rust_01;

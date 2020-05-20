@@ -8,3 +8,13 @@
 
 pub mod introduce;
 pub mod post;
+
+#[derive(Debug, Copy, Clone, Eq, PartialEq)]
+pub enum Tag {
+    Numerical,
+    Rust,
+}
+
+pub trait Tagged {
+    fn tag() -> Vec<Tag>;
+}
